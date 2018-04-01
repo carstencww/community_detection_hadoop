@@ -1,0 +1,6 @@
+To detect communities, we need to calculate the similarity between any pair of users. In this
+homework, similarity is measured by the number of common followees for the given pair of
+users. 
+
+Data are in the format:
+<followee>: <followers> <followers> ...
